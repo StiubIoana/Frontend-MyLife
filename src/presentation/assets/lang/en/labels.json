@@ -1,0 +1,21 @@
+{
+    "labels.itemsPerPage": "Items per page",
+    "labels.paginationLabelNormal": "{from}-{to} of {count}",
+    "labels.paginationLabelOverflow": "{from}-{to} of more than {to}",
+    "labels.yes": "Yes",
+    "labels.no": "No",
+    "labels.actions": "Actions",
+    "labels.addUser": "Add user",
+    "labels.addAttribute": "Add attribute",
+    "labels.addUserFile": "Add file",
+    "labels.addChallenge": "Add challenge",
+    "labels.updateChallenge": "Update challenge",
+    "labels.addChallengeAttribute": "Add attribute",
+    "labels.updateChallengeAttribute": "Update attribute",
+    "labels.search": "Search",
+    "labels.join": "Join",
+    "labels.quit": "Quit",
+    "labels.complete": "Complete",
+    "labels.topForAttribute": "Top for {attributeName}"
+
+}

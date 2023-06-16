@@ -1,0 +1,21 @@
+{
+    "labels.itemsPerPage": "Intrari pe pagina",
+    "labels.paginationLabelNormal": "{from}-{to} din {count}",
+    "labels.paginationLabelOverflow": "{from}-{to} din mai mult de {to}",
+    "labels.yes": "Da",
+    "labels.no": "Nu",
+    "labels.actions": "Actiuni",
+    "labels.addAttribute": "Adauga atribut",
+    "labels.addUser": "Adauga utilizator",
+    "labels.addUserFile": "Adauga fisier",
+    "labels.addChallenge": "Adauga provocare",
+    "labels.updateChallenge": "Editeaza provocare",
+    "labels.addChallengeAttribute": "Adauga atribut",
+    "labels.updateChallengeAttribute": "Editeaza atribut",
+    "labels.search": "Cauta",
+    "globals.challengeAttribute": "Atribut",
+    "labels.join": "Incepe",
+    "labels.quit": "Abandoneaza",
+    "labels.complete": "Completeaza",
+    "labels.topForAttribute": "Top pentru {attributeName}"
+}
